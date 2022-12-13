@@ -1,4 +1,5 @@
 # IS426-final-project (Documentation of code)
+*Note: All csv files will need to be moved to a folder labeled "data", but I saw no option to do that in the repo*
 
 This code was designed to rip data from csv files, read them into a MySQL database, manipulate the data in SQL to create the target comparison, then showcase multiple ways of executing Python code to find certain targets.
 
