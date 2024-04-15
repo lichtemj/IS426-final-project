@@ -1,3 +1,3 @@
-host='redacted'
-user='redacted'
-passwd='redacted'
+host='Redacted'
+user='Redacted'
+passwd='Redacted'
